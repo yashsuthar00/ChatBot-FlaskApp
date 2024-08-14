@@ -1,0 +1,122 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hii", "hey"],
+    "bot_response": "Hey there!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye"],
+    "bot_response": "See you later!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "python", "in", "class"],
+    "bot_response": "Start by attending lecture.",
+    "required_words": ["learn", "python"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["marks", "how", "can", "I", "get"],
+    "bot_response": "By creating time table to learn this subject and strictly follow it for getting good marks.",
+    "required_words": ["get", "i", "marks"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["does", "ma'am", "project", "likes", "my"],
+    "bot_response": "Obviously, you're doing your best... and you tried to learn something!",
+    "required_words": ["my", "project", "likes"]
+  },
+  {
+    "response_type": "command",
+    "user_input": ["get", "python", "subject", "marks", "my"],
+    "bot_response": "Sure, you got 39 marks in Python in MSE... Congratulations!",
+    "required_words": ["my", "python", "marks"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "your", "name"],
+    "bot_response": "I'm your friendly chatbot!",
+    "required_words": ["what", "your", "name"]
+  },
+  {
+    "response_type": "statement",
+    "user_input": ["I", "am", "tired"],
+    "bot_response": "Take a break, you deserve it!",
+    "required_words": ["i", "tired"]
+  },
+  {
+    "response_type": "statement",
+    "user_input": ["I", "need", "help"],
+    "bot_response": "I'm here to help! What do you need assistance with?",
+    "required_words": ["i", "need", "help"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "time", "is", "it"],
+    "bot_response": "It's time to code! (But seriously, check your device's clock.)",
+    "required_words": ["time", "is"]
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["good", "morning"],
+    "bot_response": "Good morning! Ready to start the day?",
+    "required_words": ["good", "morning"]
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["good", "night"],
+    "bot_response": "Good night! Sleep tight!",
+    "required_words": ["good", "night"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "AI"],
+    "bot_response": "AI stands for Artificial Intelligence, the simulation of human intelligence by machines.",
+    "required_words": ["what", "ai"]
+  },
+  {
+    "response_type": "command",
+    "user_input": ["tell", "me", "a", "joke"],
+    "bot_response": "Why don't programmers like nature? It has too many bugs!",
+    "required_words": ["tell", "joke"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "the", "weather"],
+    "bot_response": "I can't check the weather, but I hope it's nice outside!",
+    "required_words": ["what", "weather"]
+  },
+  {
+    "response_type": "statement",
+    "user_input": ["I", "am", "hungry"],
+    "bot_response": "How about grabbing a snack?",
+    "required_words": ["i", "hungry"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "love"],
+    "bot_response": "Love is a complex mix of emotions, behaviors, and beliefs associated with strong feelings of warmth and respect.",
+    "required_words": ["what", "love"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["do", "you", "know", "java"],
+    "bot_response": "Of course! Java is a high-level, class-based, object-oriented programming language.",
+    "required_words": ["you", "know", "java"]
+  }
+]

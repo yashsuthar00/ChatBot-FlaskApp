@@ -1,0 +1,10 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+
+# Flask specific files
+*.env
+*.db
