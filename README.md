@@ -81,11 +81,22 @@ Here are some commands you can try with the chatbot:
 
 ## Screenshots
 
-![Screenshot](path_to_your_screenshot.png)
+![Screenshot 2024-08-15 040457](https://github.com/user-attachments/assets/0fbae684-3479-4fd1-bbed-a82fa8c206a1)
+
+
+![Screenshot 2024-08-15 040518](https://github.com/user-attachments/assets/62053eb9-5454-4adf-ad7a-435f36bc7d7e)
+
+
+![Screenshot 2024-08-15 040536](https://github.com/user-attachments/assets/14686800-4c8f-438f-be75-afbaf065e133)
+
 
 ## Demo Video
 
-[![Watch the video](path_to_your_video_thumbnail.png)](path_to_your_video_link)
+
+
+https://github.com/user-attachments/assets/dfe51eea-d90f-4553-886c-1b0346e89317
+
+
 
 ## Contributing
 
